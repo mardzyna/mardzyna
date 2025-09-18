@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mardzyna 👋
 
-<!--
-**mardzyna/mardzyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a love for building cool projects and learning new things.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Python, JavaScript, TypeScript
+- React, Node.js, Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [Kolecta](https://github.com/mardzyna/Kolecta) — Collection management tool  
+- [mypf](https://github.com/mardzyna/mypf) — Personal finance app  
+- [LocationExtractor](https://github.com/mardzyna/LocationExtractor) — Geo data parser  
+- [Biznest](https://github.com/centmarde/Biznest) — Business networking platform  
+- [miniproject](https://github.com/mardzyna/miniproject) — Miscellaneous experiments
+
+## 📊 GitHub Profile Stats
+
+![Mardzyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardzyna&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardzyna&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mardzyna&theme=radical)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mardzyna&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Find Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+- Email: youremail@example.com
+
+---
+
+*Feel free to connect or check out my work!*
